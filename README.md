@@ -41,3 +41,5 @@ If you have any questions, please feel free to reach out to me via:
 Licensed under the MIT license.
 
 ## Credits
+
+Copyright © Shay O'Sullivan
